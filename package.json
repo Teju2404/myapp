@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "author": "Tejaswi Reddy Kandula",
   "version": "0.0.0",
   "private": true,
   "scripts": {
